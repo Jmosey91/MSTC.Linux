@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Created by Jenna Mosey <Jmosey91>
 groups=('Sales'
 'HumanResources'
 'TechnicalOperations'
